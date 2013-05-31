@@ -6,10 +6,7 @@ Vertically scrolls the page to the mouse pointer where the page was clicked. Use
 Installation
 ============
 
-Drag the following link to the Bookmarks bar:
-
-[ScrollTo][1]
-[1]: javascript:(function() { window.onclick = function(e) { window.scroll(0, e.pageY - 20) } })()
+Drag the contents of scrollto.js to the Bookmarks bar and rename the bookmarklet to "ScrollTo".
 
 Usage
 =====
