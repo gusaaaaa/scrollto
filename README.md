@@ -8,7 +8,8 @@ Installation
 
 Drag the following link to the Bookmarks bar:
 
-<a href="javascript:(function() { window.onclick = function(e) { window.scroll(0, e.pageY - 20) } })()">ScrollTo</a>
+[ScrollTo][1]
+[1]:javascript:(function() { window.onclick = function(e) { window.scroll(0, e.pageY - 20) } })()
 
 Usage
 =====
